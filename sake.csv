@@ -1,0 +1,46 @@
+﻿name,Brewery,company,prefecture,alchohol,acidity,Sake Meter,rice variety,polishing ratio,character,character-full,pairings,temperature,class
+Akitabare “Koshiki Junzukuri”,Akitabare,Akita Brewing Company,Akita Prefecture,14.5,1.6,1.5,Gin no Sei,65,3,"dry, mild","seafood, vegetable, tempura",0,Junmai
+Hoyo “Genji”,Hoyo,Uchigasaki Brewing Company,Miyagi Prefecture,15,1.3,4,Kura no Hana,55,2,"dry, woody, citrus","seared tuna, asparagus and artichoke.",0,Junmai
+Hoyo “Sawayaka Junmai”,Hoyo,Uchigasaki Brewing Company,Miyagi Prefecture,15,1.3,1,Manamusume,60,1,soft and smooth,"sushi, sashim",0,Junmai
+Kamoizumi “Shusen”,Kamoizumi,Kamoizumi Brewing Company,Hiroshima Prefecture,16,1.7,1,"Hiroshima Hattan, Nakate Shinsenbon",58,4,"Rich, robust, with a woody shiitake aroma","duck or foie gras,mushrooms and winter vegetables",40,Junmai
+Kuzuryu “Junmai”,Kuzuryu,Kokuryu Sake Brewing Corporation,Fukui Prefecture,14.5,1.3,5.5,500 Mangoku,65,4,Nutty and toasty,"umami-rich shellfish when heated, beef filet or grilled chicken when chilled",0,Junmai
+Masumi “Okuden Kantsukuri”,Masumi,Miyasaka Brewing Company ,Nagano Prefecture,15,1.6,1,"Miyamanishiki, Hitogokochi",70,7,smooth and sweet,"tempura, tofu and marinated chicken or pork dishes.",50,Junmai
+Miyasaka “Yawaraka Junmai”,Miyasaka,Miyasaka Brewing Company ,Nagano Prefecture,12,1.5,-3,Miyamanishiki,55,6,Smooth and gentle,good with everything,0,Junmai
+Sohomare “Karakuchi”,Sohomare,Sohomare Sake Brewery ,Tochigi Prefecture,15,1.8,5,Yamadanishiki,60,1,dry,"sushi, fish and poultry entrees",0,Junmai
+Sohomare “Tokubetsu Kimoto”,Sohomare,Sohomare Sake Brewery ,Tochigi Prefecture,15,1.8,4,Yamadanishiki,60,5,Crisp and flavourful,"uni, chutoro tuna, Spanish ham and goat cheese.",0,Junmai
+Tamagawa “Red Label”,Tamagawa,Kinoshita Brewing Company ,Kyoto Prefecture,20.5,2.9,3.5,Kitanashiki,66,,,"stews, grilled meats, oystrers",0,Junmai
+Tamagawa “Tokubetsu Junmai”,Tamagawa,Kinoshita Brewing Company ,Kyoto Prefecture,16.5,2.2,4.4,500 Mangoku,60,5,Nutty and toasty,robust stews and roasts.,5,Junmai
+Tedorigawa “Yamahai Junmai”,Tedorigawa,Yoshida Brewing Company,Ishikawa Prefecture,15.5,1.6,2,"Yamadanishiki, 500 Mangoku",60,1,"dry, sharp & smooth","Spicefriendly,  savoury dishes from Middle-Eastern cuisines.",5,Junmai
+Dewazakura “Dewasansan”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,15.5,1.4,4,Dewasansan,50,2,Mellow,"sashimi, oysters, grilled tuna, sea bass and halibut",5,Ginjo
+Dewazakura “Izumi Judan”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,17.5,1.4,12,"Dewasansan, Haenuki",50,1,crisp and bone dry,"Great with salmon roe, caviar, toro and hamachi",0,Ginjo
+Dewazakura “Oka”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,15.5,1.2,5,"Dewasansan, Haenuki",50,6,floral,lightly dressed salads and white fish sushi or sashimi,5,Ginjo
+Dewazakura “Omachi”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,16.5,1.6,1,Omachi,50,2,dry,"sweet corn croquettes, an omelette, gently seasoned dishes",5,Ginjo
+Kokuryu “Junmai Ginjo”,Kokuryu,Kokuryu Sake Brewing Corporation,Fukui Prefecture,15.5,1.3,4.5,500 Mangoku,55,3,rich,"braised meat, fish and root vegetables",10,Ginjo
+Kokuryu “Tokusen”,Kokuryu,Kokuryu Sake Brewing Corporation,Fukui Prefecture,15.5,1.1,4.4,500 Mangoku,50,,,"umami-rich seafood like squid, scallops and sea bream",5,Ginjo
+Koshi no Kanbai “Sai”,Koshi no Kanbai,Ishimoto Brewing Company,Niigata Prefecture,15,1.4,2,"Yamadanishiki, 500 Mangoku",55,6,"crisp, clean","umami-rich seafood such as scallops, mirugai and ika",10,Ginjo
+Koshi no Kanbai “Tokusen”,Koshi no Kanbai,Ishimoto Brewing Company,Niigata Prefecture,16,1.1,8,Yamadanishiki,50,,,complements virtually all Japanese foods.,13,Ginjo
+Nagurayama “Yokikana”,Nagurayama,Nagurayama Brewing Company,Fukushima Prefecture,16,1.3,-3,Yamadanishiki,50,6,"Sweet and clean, gorgeously aromatic","scallops, sea bream and abalone as well as seasonable vegetables and salads.",5,Ginjo
+Seitoku “Junmai Ginjo”,Seitoku,Seitoku Brewing Company,Gunma Prefecture,15.5,1.2,3,500 Mangoku,50,,,ideal choice for sashimi and sushi.,5,Ginjo
+Sohomare “Junmai Ginjo”,Sohomare,Sohomare Sake Brewery ,Tochigi Prefecture,15,1.6,4,500 Mangoku,55,6,"Robustly clean with rich, elegant flavour","white fish sashimi, scallop ceviche and halibut, also with soba",5,Ginjo
+Dewazakura “Namagenshu”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,17.5,1.4,4,Dewasansan,50,6,Brisk and clean,good with edgy flavour combinations of fusion cuisines,5,Ginjo
+Kamoizumi “Red Maple”,Kamoizumi,Kamoizumi Brewing Company,Hiroshima Prefecture,18,1.7,1,"Hiroshima Hattan, Nakate Shinsenbon",58,5,Potent and flavourful,"Nice with nuts. Best with meat, especially pork and veal chops",5,Ginjo
+Akitabare “Daiginjo”,Akitabare,Akita Brewing Company,Akita Prefecture,15,1.2,2,Gin no Sei,50,7,"Light and fragrant, supple and smooth",well with eggs and white fish. Complements Mediterranean and Italian cuisine,5,Daigino
+Akitabare “Suirakuten”,Akitabare,Akita Brewing Company,Akita Prefecture,15.5,1.1,0,Yamadanishiki,40,,,"versatile dinner sake, making everything it accompanies taste better",10,Daigino
+Dewazakura “Ichiro”,Dewazakura,Dewazakura Sake Brewery,Yamagata Prefecture,15,1.3,3,Yamadanishiki,45,5,"Billowing meadowy flavours, then a dry, gently",unadorned dishes that accentuate the flavour of natural ingredients,25,Daigino
+Hoyo “Kura no Hana”,Hoyo,Uchigasaki Brewing Company,Miyagi Prefecture,15,1.3,-2,Kura no Hana,45,8,"A truly light sake with sweetness, delicacy and finesse","salads and light seafood dishes, perfect with lobster, either cooked or sashimi",10,Daigino
+Kamoizumi “Junmai Daiginjo”,Kamoizumi,Kamoizumi Brewing Company,Hiroshima Prefecture,16,1.5,1,Yamadanishiki,50,7,"Tawny delight, mild, earthy sweetnes","rich seafood dishes like miso-marinated cod, duck and many braised dishes.",5,Daigino
+Kokuryu “Ryu”,Kokuryu,Kokuryu Sake Brewing Corporation,Fukui Prefecture,15,1.5,5,Yamadanishiki,40,8,"Smooth texture, gentle aroma, incisive taste",subtlety embracing the flavours of every course.,15,Daigino
+Koshi no Kanbai “Chotokusen”,Koshi no Kanbai,Ishimoto Brewing Company,Niigata Prefecture,16,1.1,6,Yamadanishiki,30,5,"Elusive, subtle, impeccably balanced",nhances the flavour of any food it accompanies.,15,Daigino
+Koshi no Kanbai “Kinmuku”,Koshi no Kanbai,Ishimoto Brewing Company,Niigata Prefecture,16,1.3,3,Yamadanishiki,35,4,Refined yet full of flavour,enhances the flavour of any food most enjoyable with traditional Japanese cuisine,15,Daigino
+Koshi no Kanbai “Muku”,Koshi no Kanbai,Ishimoto Brewing Company,Niigata Prefecture,16,1.3,4,Yamadanishiki,48,6,Firmly balanced and rich,well with seafood of all kinds as well as with meat dishes.,15,Daigino
+Kuzuryu “Daiginjo”,Kuzuryu,Kokuryu Sake Brewing Corporation,Fukui Prefecture,15,1,4,500 Mangoku,50,5,"Svelte and smooth, carefully aged, medium-body","grilled chicken, both yakitori and teriyaki, chinese cuisine. Ideally wagyu",5,Daigino
+Masumi “Nanago”,Masumi,Miyasaka Brewing Company,Nagano Prefecture,16,1.9,-2,Miyamanishiki,45,,,complements many non-Japanese foods. Well with French and Italian seafood dishes,13,Daigino
+Masumi “Sanka”,Masumi,Miyasaka Brewing Company,Nagano Prefecture,15,1.6,3,Yamadanishiki,45,7,Fresh and fragrant with notes of peach and anise,"Great with shiromi (white fish) carpaccio, light pasta, chicken and salads.",5,Daigino
+Masumi “Yumedono”,Masumi,Miyasaka Brewing Company,Nagano Prefecture,17,1.4,-2,Yamadanishiki,40,8,"peach, melon and strawberry",good with everything or on its own,10,Daigino
+Sohomare “Kimoto Junmai Daiginjo”,Sohomare,Sohomare Sake Brewery ,Tochigi Prefecture,16,1.7,4,Yamadanishiki,45,,,"Charcoal-grilled sliced filet, abalone steak, uni, caviar, the richer cuts of tuna",5,Daigino
+Tedorigawa “Iki na Onna”,Tedorigawa,Yoshida Brewing Company,Ishikawa Prefecture,16.5,1,5,Yamadanishiki,40,6,"Vivacious and saucy, with a caress of wild honey","crisp Chardonnay. Serve it chilled with flank steak, charcoal-grilled fish or a caesar salad",5,Daigino
+Tedorigawa “Yamahai Daiginjo”,Tedorigawa,Yoshida Brewing Company,Ishikawa Prefecture,15.5,1.2,3,"Yamadanishiki, 500 Mangoku",45,8,"Supple, racy, with enticing imprint of honey and herbs","Best with cold dishes that combine meat or fish with vegetables, such as Thai beef salad or Salade Nicoise.",5,Daigino
+Tedorigawa “Kinka”,Tedorigawa,Yoshida Brewing Company,Ishikawa Prefecture,16.5,1,4.5,"Yamadanishiki, Ishikawamon",45,6,"Vivid and poised, like plum blossoms at winter’s end","fresh sashimi, nigiri choices like anago, mirugai and uni.",5,Daigino
+Tedorigawa “Tsuyusanzen”,Tedorigawa,Yoshida Brewing Company,Ishikawa Prefecture,15.5,1.2,0,Yamadanishiki,40,8,floral and fruity,A slice of pristine sashimi or a fresh seasonal appetiser,15,Daigino
+Akitabare “Shunsetsu”,Akitabare,Akita Brewing Company,Akita Prefecture,14,1.3,2,Gin no Sei,65,2,dry,"light sidedishes like edamame, tofu and seafood salad",0,Honjozo
+Seitoku “Bessen,Seitoku,Seitoku Brewing Company,Gunma Prefecture,15,3,0,Rice in Japan,70,1,dry and full-body,Sublime with tempura.,15,Futsushu
